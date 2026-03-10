@@ -16,7 +16,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R:
+   R: antes de empezar a trabajar se requiere un planificación, diseño y gestión. Si la persona lo quiere mas llamativo o con mas imagenes y que haga tal cosa.
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
