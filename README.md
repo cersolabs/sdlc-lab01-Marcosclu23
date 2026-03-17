@@ -77,7 +77,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
+| Análisis                      |  En esta etapa se realiza un relevamiento de la organización para identificar sus necesidades y problemas.           |
 | Diseño                        |             |
 | Codificación                  |             |
 | Prueba                        |             |
