@@ -162,6 +162,7 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
   
   R:El modelo Cascada (lineal secuencial).
   Justifique su respuesta.
+  
   R:Se recomienda el modelo en cascada porque el proyecto tiene características que se adaptan bien a este enfoque:
     Es un sistema pequeño
     Tiene pocos usuarios
@@ -171,6 +172,7 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
     desarrollar el sistema más rápidamente sin necesidad de enfoques más complejos.
     
 ¿Qué etapas principales tendría el desarrollo?
+  
   R:Análisis / Ingeniería de requerimientos
   Diseño
   Codificación
