@@ -78,8 +78,9 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
 | Análisis                      |  En esta etapa se realiza un relevamiento de la organización para identificar sus necesidades y problemas.           |
-| Diseño                        |             |
-| Codificación                  |             |
+| Diseño                        |   Se define la solución al problema identificado.
+Se establecen las estructuras de datos, la arquitectura del sistema, las interfaces y los componentes necesarios para construir el software.          |
+| Codificación                  |  Es la etapa donde los programadores escriben el código del sistema utilizando un lenguaje de programación, basándose en el diseño previamente definido.           |
 | Prueba                        |             |
 | Puesta en marcha / Despliegue |             |
 
