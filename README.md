@@ -182,8 +182,8 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
-1. [F] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [V] El modelo incremental entrega el sistema en varias versiones.
-3. [V] Un prototipo se utiliza para comprender mejor los requerimientos.
-4. [V] El modelo RAD busca reducir los tiempos de desarrollo.
-5. [V] El modelo en espiral incorpora el análisis de riesgos.
+1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
+2. [X] El modelo incremental entrega el sistema en varias versiones.
+3. [X] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [X] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [X] El modelo en espiral incorpora el análisis de riesgos.
