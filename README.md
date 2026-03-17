@@ -158,15 +158,24 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 **Preguntas**
 
-- ¿Qué modelo de desarrollo recomendaría? 
-
-  R: 
-- Justifique su respuesta.
-
-  R:
-- ¿Qué etapas principales tendría el desarrollo?
-
-  R:
+¿Qué modelo de desarrollo recomendaría?
+  
+  R:El modelo Cascada (lineal secuencial).
+  Justifique su respuesta.
+  R:Se recomienda el modelo en cascada porque el proyecto tiene características que se adaptan bien a este enfoque:
+    Es un sistema pequeño
+    Tiene pocos usuarios
+    Los requerimientos son claros y estables
+    Se dispone de tiempo limitado
+    En estos casos, un modelo simple y secuencial permite organizar el trabajo de forma eficiente, reducir costos y
+    desarrollar el sistema más rápidamente sin necesidad de enfoques más complejos.
+    
+¿Qué etapas principales tendría el desarrollo?
+  R:Análisis / Ingeniería de requerimientos
+  Diseño
+  Codificación
+  Prueba
+  Despliegue (puesta en marcha)
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
