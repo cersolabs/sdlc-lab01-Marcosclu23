@@ -87,13 +87,17 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R:En la etapa de análisis 
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R:En la etapa Codificación 
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R:El objetivo principal es detectar
+    errores y fallos en el sistema antes
+    de su uso, para corregirlos y mejorar
+    la calidad del software.
+    
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
