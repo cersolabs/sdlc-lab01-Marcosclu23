@@ -133,11 +133,11 @@ Orden de las etapas del modelo lineal secuencial
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |    Proyectos simples, con requerimientos claros y estables                    |
-| Incremental |                          |    Proyectos grandes o cuando se quiere entregar el sistema por partes                    |
-| Prototipos  |                          |     Cuando los requerimientos no están claros o son difíciles de definir                   |
-| Espiral     |                          |    Proyectos complejos o con alto nivel de riesgo e incertidumbre                    |
-| RAD         |                          |    Cuando se necesita desarrollar el sistema en poco tiempo                    |
+| Cascada     | Proceso secuencial donde cada etapa se completa antes de pasar a la siguiente                         |    Proyectos simples, con requerimientos claros y estables                    |
+| Incremental | Desarrollo en versiones sucesivas que van agregando funcionalidades                         |    Proyectos grandes o cuando se quiere entregar el sistema por partes                    |
+| Prototipos  | Construcción de una versión preliminar para entender mejor el sistema                         |     Cuando los requerimientos no están claros o son difíciles de definir                   |
+| Espiral     |  Desarrollo por ciclos con análisis de riesgos en cada etapa                        |    Proyectos complejos o con alto nivel de riesgo e incertidumbre                    |
+| RAD         |  Uso de herramientas para desarrollar software rápidamente                        |    Cuando se necesita desarrollar el sistema en poco tiempo                    |
 
 ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
 
