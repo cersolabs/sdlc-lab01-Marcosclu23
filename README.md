@@ -119,6 +119,7 @@ Orden de las etapas del modelo lineal secuencial
    trabajo.
    
 ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
+  
    R:Porque el modelo lineal secuencial
    no está pensado para incorporar
    cambios durante el desarrollo.
@@ -138,9 +139,13 @@ Complete la siguiente tabla.
 | Espiral     |                          |                        |
 | RAD         |                          |                        |
 
-- Responder:
-  - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
-  - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+
+R:El modelo Espiral, porque incluye el análisis de riesgos en cada etapa del desarrollo.
+
+¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+
+R:El modelo de Prototipos, ya que permite mostrar una versión del sistema al usuario y mejorar la comprensión de sus necesidades.
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
