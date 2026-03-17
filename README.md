@@ -99,23 +99,35 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
     la calidad del software.
     
 ### Actividad 3
-Ordene las siguientes etapas según corresponda  Diseño
--al modelo lineal secuencial:
-- Codificación
-- Prueba
-- Diseño
-- Despliegue
-- Ingeniería de requerimientos
----
-R:
+Orden de las etapas del modelo lineal secuencial
+  R:
+  Ingeniería de requerimientos
+  Diseño
+  Codificación
+  Prueba
+  Despliegue
+  
+¿Qué problema puede surgir si hay un error en una etapa inicial?
+   
+   R:Si hay un error en una etapa
+   inicial, este se arrastra a las etapas
+   siguientes, lo que puede generar
+   fallos más graves en el sistema.
+   Además, corregirlos en etapas
+   avanzadas suele ser más difícil,
+   costoso y requiere rehacer parte del
+   trabajo.
+   
+¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
+   R:Porque el modelo lineal secuencial
+   no está pensado para incorporar
+   cambios durante el desarrollo.
+   Los requerimientos se definen al
+   inicio y modificar algo después
+   implica volver a etapas anteriores, lo
+   que aumenta costos, tiempo y
+   complejidad del proyecto.
 
-- Luego responder:
-  * ¿Qué problema puede surgir si hay un error en una etapa inicial?
-    
-    R:
-  * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
-
-    R:
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
