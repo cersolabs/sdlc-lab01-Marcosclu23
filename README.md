@@ -81,7 +81,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 | Diseño                        |   Se define la solución al problema identificado.Se establecen las estructuras de datos, la arquitectura del sistema, las interfaces y los componentes necesarios para construir el software.          |
 | Codificación                  |  Es la etapa donde los programadores escriben el código del sistema utilizando un lenguaje de programación, basándose en el diseño previamente definido.           |
 | Prueba                        | Se verifica el funcionamiento del sistema para detectar errores o fallos.El objetivo es encontrar problemas antes de que el software sea utilizado por los usuarios.            |
-| Puesta en marcha / Despliegue |             |
+| Puesta en marcha / Despliegue |  Se instala el sistema en el entorno del cliente.Incluye la configuración, la entrega del software y la capacitación de los usuarios para su uso correcto.           |
 
 
 * Luego responda:
