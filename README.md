@@ -15,24 +15,62 @@
 Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
-
-   R: no se recomienda empezar a programa directamente porque es un proceso complejo que requiere planificacion, analisis y validacion antes de escribir codigo. Si se comienza a programar sin seguir las etapas del ciclo, aparecen muchos problemas (no se entiendn bien los requisitos, maor cantidad de errores, aumento de costos y tiempo)
+   
+   R:No se recomienda empezar a programar
+   directamente porque el desarrollo de
+   software es un proceso complejo que
+   requiere planificación, análisis y
+   validación previos.
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R: un desarrollo dirigido por un plan es una planificación previa basada en los requisitos y necesidades del cliente, definiendo etapas, tiempos y tareas para lograr el objetivo del sistema.
+   R:Un desarrollo dirigido por un plan
+   es aquel en el que se define
+   previamente una planificación
+   detallada del proyecto a partir de los
+   requisitos del cliente.
+   Se establecen etapas, tareas, tiempos
+   y recursos, y el desarrollo avanza
+   siguiendo ese plan hasta completar el
+   sistema.
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R: mayor organizaicon del proyecto, menos errores, menos costos y mejor mantenimient del sistema,
-
+   R:Mayor organización y control del
+   proyecto
+   -Posibilidad de estimar costos y
+   tiempos
+   -Desarrollo más predecible
+   -Menor cantidad de errores
+   -Mejor documentación del sistema
+   -Facilita el mantenimiento posterior
+   
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R: 
-
+   R:Los proyectos reales rara vez siguen
+   un proceso totalmente lineal
+   -Es difícil definir todos los
+   requerimientos al inicio
+   -Permiten pocos o ningún cambio
+   durante el desarrollo
+   -Los errores de etapas iniciales se
+   arrastran a las siguientes
+   -Hay poca interacción con el cliente
+   durante el proceso
+   -El cliente recién ve el sistema al
+   final
+   -Pueden resultar poco adecuados para
+   proyectos grandes o cambiantes
+   
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R:Porque cada enfoque tiene ventajas
+   diferentes.
+   Los modelos dirigidos por un plan
+   aportan organización, documentación y
+   control, mientras que las metodologías
+   ágiles brindan flexibilidad y
+   adaptación a cambios. 
 
 
 ### Actividad 2
