@@ -134,7 +134,7 @@ Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
 | Cascada     |Proceso secuencial donde cada etapa se completa antes de pasar a la siguiente
-                    |      Proyectos simples, con requerimientos claros y estables                  |
+           Proyectos simples, con requerimientos claros y estables         |                        |
 | Incremental |                          |                        |
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
